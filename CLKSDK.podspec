@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CLKSDK"
-  spec.version      = "6.3.3.4"
+  spec.version      = "6.3.3.5"
   spec.summary      = "use CLKSDK."
 
   spec.description  = <<-DESC
